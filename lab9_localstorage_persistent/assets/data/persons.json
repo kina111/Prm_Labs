@@ -1,0 +1,28 @@
+
+[
+  {
+    "name": "John",
+    "age": 25,
+    "isSingle": true
+  },
+  {
+    "name": "Emma",
+    "age": 22,
+    "isSingle": false
+  },
+  {
+    "name": "Michael",
+    "age": 30,
+    "isSingle": true
+  },
+  {
+    "name": "Sophia",
+    "age": 27,
+    "isSingle": false
+  },
+  {
+    "name": "David",
+    "age": 24,
+    "isSingle": true
+  }
+]
